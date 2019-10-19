@@ -11,7 +11,7 @@ class linklist{
 	node *head;
 	node *tail;
 	public:
-		linklist(){
+		linklist(){					// constructor
 			head=NULL;
 			tail=NULL;
 		}
