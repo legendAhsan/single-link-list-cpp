@@ -15,7 +15,7 @@ class linklist{
 			head=NULL;
 			tail=NULL;
 		}
-		void insert(int data){
+		void insert(int data){		// insert value in linklist
 			node *ptr=new node;
 			ptr->value=data;
 			ptr->next=NULL;
