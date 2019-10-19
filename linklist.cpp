@@ -101,7 +101,7 @@ class linklist{
 	}
 };
 
-
+//good
 
 int main(){
 	int data,i=0,x,input,insertvalue,deletevalue,editvalue,searchvalue,toedit;
